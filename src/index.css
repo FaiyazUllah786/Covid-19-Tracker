@@ -3,14 +3,14 @@
 @tailwind utilities;
 
 
-
+/* 
 body{
     background: linear-gradient(to bottom right, rgba(0,0,0,0.9),rgba(0,0,0,0.4)),url('./bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-}
+} */
 
 @layer components{
   .bg-glass{
